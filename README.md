@@ -43,18 +43,6 @@ By using fuzzy rules, the washing machine can:
    cd smart-fuzzy-washing-machine
 
 2.Install dependencies:
-
+```bash
 pip install -r requirements.txt
 
-Include in requirements.txt:
-
-streamlit
-scikit-fuzzy
-numpy
-matplotlib
-
-3.Run the Streamlit app:
-
-streamlit run app_streamlit.py
-
-4.Open the local URL that Streamlit provides in your browser (e.g. http://localhost:8501).
